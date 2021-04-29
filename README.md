@@ -5,10 +5,10 @@ Our project is based off the core premise of Pac-Man. Your character moves aroun
 
 ## Team Members and Roles
 
-* [Natalie Boardway](https://github.com/ngboardway/CIS641-HW2-Boardway) (Co-lead software developer)
-* [Jon Griesen](https://github.com/griesenj/CIS641-HW2-Griesen) (Project manager / Documentation lead)
-* [Nick Reitz](https://github.com/Reitzn/CIS641-HW2-Reitz) (Diagram / Artifact lead)
-* [Nate Stern](https://github.com/nstern-gvsu/CIS641-HW2-Stern) (Co-lead software developer)
+* [Natalie Boardway](https://github.com/ngboardway) (Co-lead software developer)
+* [Jon Griesen](https://github.com/griesenj) (Project manager / Documentation lead)
+* [Nick Reitz](https://github.com/Reitzn) (Co-lead software developer)
+* [Nate Stern](https://github.com/nstern-gvsu) (Diagram / Artifact lead)
 
 ## Prerequisites
 
