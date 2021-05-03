@@ -1,4 +1,4 @@
-# Pac-Meme CIS-641
+# Pac-Meme 
 ## Team: Moot Floating Point
 
 Our project is based off the core premise of Pac-Man. Your character moves around the maze while trying to avoid collisions with walls or ghosts. The player’s goal is to collect all of the dots, which both increase your score and allow you to beat each level. There are special power-ups that allow you to eat ghosts. Our unique addition to the game comes in the form of Meme-based sprites.
